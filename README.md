@@ -20,3 +20,5 @@ description: Welcome to the Human-Connection Nitro Documentation.
 >
 > We still need to evaluate the drawbacks and estimate the development cost of such an approach
 
+Livechat for all interested coders:
+https://discordapp.com/invite/6ub73U3
